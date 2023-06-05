@@ -1,6 +1,8 @@
 # An Introduction to Interactive Programming in Python
 
-This repository contains a collection of mini-projects that I completed during 'An Introduction to Interactive Programming in Python' course, back when it was offered as a combined course prior to being split into [Part-1](https://www.coursera.org/learn/interactive-python-1) and [Part-2](https://www.coursera.org/learn/interactive-python-2).  
+This repository contains a collection of mini-projects that I completed during 'An Introduction to Interactive Programming in Python' course, back when it was offered as a combined course prior to being split into [Part-1](https://www.coursera.org/learn/interactive-python-1) and [Part-2](https://www.coursera.org/learn/interactive-python-2).
+
+The code in this repository can be run on [Codeskulptor](https://py2.codeskulptor.org/), a web-based Python interpreter used in the online course "An Introduction to Interactive Programming in Python."
 
 * [Rock-paper-scissors-lizard-Spock](1-RPSLS.py)
 * [Guess the number](2-Guess%20the%20Number.py)
