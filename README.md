@@ -1,6 +1,6 @@
-# An Introduction to Interactice Programming in Python (2014)
+# An Introduction to Interactice Programming in Python
 
-This repository contains a collection of mini-projects and other programs that I completed during 'An Introduction to Interactice Programming in Python' course in 2014.  
+This repository contains a collection of mini-projects and other programs that I completed during 'An Introduction to Interactice Programming in Python' course, back when it was offered as a combined course prior to being split into [Part-1](https://www.coursera.org/learn/interactive-python-1) and [Part-2](https://www.coursera.org/learn/interactive-python-2).  
 
 * [Rock-paper-scissors-lizard-Spock](1-RPSLS.py)
 * [Guess the number](2-Guess%20the%20Number.py)
